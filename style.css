@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.img-fluid{
+    align-items: center;
+    width: 160px;
+    height: 100px;
+    margin-left: 100px;
+}
+.row{
+width: 35%;
+border-radius: 10px;
+padding: 48px 40px 36px;
+margin: auto;
+margin-top: 100px;
+margin-bottom: 50px;
+box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+.from-check-lable{
+    color: rgba(0, 216, 177, 0.807);
+    font-weight: 600;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
